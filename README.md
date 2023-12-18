@@ -1,5 +1,5 @@
 # WD-synthetic-population
-A project which focuses on the development of a synthetic population of white dwarfs using the data of GAIA and SDSS catalogues and WD Phottools by Marco Lam.
+A project that focuses on the development of a synthetic population of white dwarfs using the data of GAIA and SDSS catalogs and WD Phottools by Marco Lam. Currently, I am using ML to predict the parameters like g_mag, bp_mag, and rp_mag.  
 
 Impostant Links: <br />
 Standard Dataset = https://drive.google.com/file/d/1M2QRsdWp4W_48JJtLLYR-2wNfyayPgBA/view?usp=drive_link <br />
