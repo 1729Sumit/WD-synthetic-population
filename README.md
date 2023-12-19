@@ -7,4 +7,4 @@ Our Dataset = https://drive.google.com/file/d/1xTzrx61RCTBcmwcVHmYse9w79iKxbGZ_/
 N.G Fusillo Paper= https://arxiv.org/pdf/2106.07669.pdf <br />
 WD Phottools Toolkit Manual = https://drive.google.com/file/d/13oIqeAw6B17oemLrcCjeK0_MHkDB_t-_/view?usp=drive_link
 
-# Still working on some interestin stuff coming soon!!
+# Still working on some interesting stuff coming soon!!
